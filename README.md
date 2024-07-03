@@ -20,6 +20,8 @@ A professional task management application to streamline your productivity. Mana
 ## Screenshot
 
 <img width="1489" alt="Screenshot 2024-07-03 at 11 58 06 AM" src="https://github.com/shuddha2021/TaskManager/assets/81951239/9112aeb4-0faa-45fb-9fc6-4647be88fe9b">
+<img width="1489" alt="Screenshot 2024-07-03 at 12 04 50 PM" src="https://github.com/shuddha2021/TaskManager/assets/81951239/fede30fc-990b-4e3c-8fc9-16a001a2134b">
+<img width="1489" alt="Screenshot 2024-07-03 at 12 05 00 PM" src="https://github.com/shuddha2021/TaskManager/assets/81951239/c2050b18-8082-4a18-8d5b-9a458699d26a">
 
 
 ## Getting Started
