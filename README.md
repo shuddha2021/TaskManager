@@ -19,7 +19,8 @@ A professional task management application to streamline your productivity. Mana
 
 ## Screenshot
 
-![Task List](https://via.placeholder.com/1117x500)
+<img width="1489" alt="Screenshot 2024-07-03 at 11 58 06 AM" src="https://github.com/shuddha2021/TaskManager/assets/81951239/9112aeb4-0faa-45fb-9fc6-4647be88fe9b">
+
 
 ## Getting Started
 
@@ -32,13 +33,13 @@ A professional task management application to streamline your productivity. Mana
    ```bash
    git clone https://github.com/yourusername/taskmaster-pro.git
 2. Navigate to the project directory:
-   cd taskmaster-pro
+   ```cd taskmaster-pro
 3. Restore dependencies:
-   dotnet restore
+   ```dotnet restore
 4. Update the database:
-   dotnet ef database update
+   ```dotnet ef database update
 5. Run the application:
-   dotnet run
+   ```dotnet run
 
 ### Project Structure
 - Controllers/: Contains the MVC controllers.
