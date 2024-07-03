@@ -33,13 +33,17 @@ A professional task management application to streamline your productivity. Mana
    ```bash
    git clone https://github.com/yourusername/taskmaster-pro.git
 2. Navigate to the project directory:
-   ```cd taskmaster-pro
+   ```bash
+   cd taskmaster-pro
 3. Restore dependencies:
-   ```dotnet restore
+   ```bash
+   dotnet restore
 4. Update the database:
-   ```dotnet ef database update
+   ```bash
+   dotnet ef database update
 5. Run the application:
-   ```dotnet run
+   ```bash
+   dotnet run
 
 ### Project Structure
 - Controllers/: Contains the MVC controllers.
