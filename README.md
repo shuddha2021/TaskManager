@@ -19,9 +19,10 @@ A professional task management application to streamline your productivity. Mana
 
 ## Screenshot
 
-<img width="1489" alt="Screenshot 2024-07-03 at 11 58 06 AM" src="https://github.com/shuddha2021/TaskManager/assets/81951239/9112aeb4-0faa-45fb-9fc6-4647be88fe9b">
-<img width="1489" alt="Screenshot 2024-07-03 at 12 04 50 PM" src="https://github.com/shuddha2021/TaskManager/assets/81951239/fede30fc-990b-4e3c-8fc9-16a001a2134b">
-<img width="1489" alt="Screenshot 2024-07-03 at 12 05 00 PM" src="https://github.com/shuddha2021/TaskManager/assets/81951239/c2050b18-8082-4a18-8d5b-9a458699d26a">
+<img width="1493" alt="Screenshot 2024-07-03 at 12 07 23 PM" src="https://github.com/shuddha2021/TaskMaster-Pro-Dot-Net/assets/81951239/44595376-cebc-4c40-977a-68328a21d891">
+<img width="1482" alt="Screenshot 2024-07-03 at 12 07 42 PM" src="https://github.com/shuddha2021/TaskMaster-Pro-Dot-Net/assets/81951239/78548741-6c5c-494d-adf7-43b4503bac8c">
+<img width="1499" alt="Screenshot 2024-07-03 at 12 07 54 PM" src="https://github.com/shuddha2021/TaskMaster-Pro-Dot-Net/assets/81951239/72d4deab-8abb-4f52-8456-670c645fa07d">
+<img width="1499" alt="Screenshot 2024-07-03 at 12 08 02 PM" src="https://github.com/shuddha2021/TaskMaster-Pro-Dot-Net/assets/81951239/86e0bacf-e4ec-41e5-8003-022a1dbd65fb">
 
 
 ## Getting Started
